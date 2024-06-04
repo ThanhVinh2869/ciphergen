@@ -1,18 +1,14 @@
 # Description
 CipherGen is a command-line interface based program written in Python to generate random passwords. Users can customize what type of characters (uppercase, lowercase, numbers, special characters) will be included in the generated passwords. The program allows users to keep regenerating as many passwords as they want with the same settings until they exit the generator or the program is interrupted.
 
-This project is a submission for the Harvard CS50P Final Project.
-**Video Demo:**
-https://www.youtube.com/watch?v=Qf-pfe90HYc
-
 # Author
 Vincent - Vinh Thanh Nguyen
 
 ### My Socials
 [Github](https://github.com/ThanhVinh2869)  
 [LinkedIn](www.linkedin.com/in/vincent2869)  
-EdX: zukito_vincent  
 Discord: vincentng0708
+
 # Features
 ## Starting the generator
 When running the program, a list of available commands will be displayed in the terminal:
