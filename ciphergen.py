@@ -1,4 +1,4 @@
-from project_class import Settings, color
+from ciphergen_class import Settings, color
 import sys, pyfiglet
 
 def main():

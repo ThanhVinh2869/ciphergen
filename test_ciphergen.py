@@ -3,8 +3,8 @@ sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 import pytest
 from io import StringIO
-from project_class import Settings, color
-from project import execute, exe_len, exe_enable, exe_disable, exe_number, exe_special, exe_reset
+from ciphergen_class import Settings, color
+from ciphergen import execute, exe_len, exe_enable, exe_disable, exe_number, exe_special, exe_reset
 
 
 def test_exe_len():
